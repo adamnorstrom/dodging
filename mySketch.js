@@ -16,7 +16,7 @@ let bananaList = []
 //let scorelist=[]
 //needed to load the images of the bananas
 function preload() {
-	img = loadImage('assets/clean banana.png');
+	img = loadImage('clean banana.png');
 
 }
 
